@@ -1,0 +1,10 @@
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\bin\Debug\MyLibrary.dll
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\bin\Debug\MyLibrary.pdb
+E:\VS 2курс\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

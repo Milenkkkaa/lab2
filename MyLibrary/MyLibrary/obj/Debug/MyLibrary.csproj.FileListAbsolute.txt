@@ -1,0 +1,6 @@
+E:\VS 2курс\MyLibrary\MyLibrary\bin\Debug\MyLibrary.dll
+E:\VS 2курс\MyLibrary\MyLibrary\bin\Debug\MyLibrary.pdb
+E:\VS 2курс\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+E:\VS 2курс\MyLibrary\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+E:\VS 2курс\MyLibrary\MyLibrary\obj\Debug\MyLibrary.dll
+E:\VS 2курс\MyLibrary\MyLibrary\obj\Debug\MyLibrary.pdb
